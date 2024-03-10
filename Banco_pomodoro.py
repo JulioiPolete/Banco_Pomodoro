@@ -110,3 +110,5 @@ botao_login.grid(row=3, column=0, columnspan=2, padx=10, pady=10)
 
 # Rodar a interface
 janela.mainloop()
+
+#Minha primeira vez fazendo isso.
